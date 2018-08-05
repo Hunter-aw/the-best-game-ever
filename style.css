@@ -1,7 +1,12 @@
 body{
     background-image: url("https://i.giphy.com/juUf1jKewqABa.gif")
 }
+.container{
+    position: relative;
+}
+
 .cookie{
     font-size: 70px;
     color: blue;
+    position: absolute
 }
